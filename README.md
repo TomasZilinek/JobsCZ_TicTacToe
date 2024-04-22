@@ -9,7 +9,6 @@ You can also play against an AI via desktop interface.
 ## Requirements
  - Visual Studio
  - Newtonsoft Json
- - probably only runnable on Windows
 
 ## Credits
 - [Tomáš Žilínek](https://www.linkedin.com/in/tomaszilinek)
